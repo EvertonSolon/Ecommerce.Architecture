@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="ASP.NET Core Web API/ASP.NET Core Web API.csproj" />
   <Project Path="Ecommerce.Application/Ecommerce.Application.csproj" />
   <Project Path="Ecommerce.Domain/Ecommerce.Domain.csproj" />
   <Project Path="Ecommerce.Infrastructure/Ecommerce.Infrastructure.csproj" />
